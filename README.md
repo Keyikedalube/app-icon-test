@@ -6,3 +6,4 @@ Editor > Manage Export Templates... > Download
 3. Export it to Windows executable
 Project > Export > Window Desktop
 
+# *This repo archived because test was already done*
